@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Serge 👋
 
-<!--
-**sergetalla1003/sergetalla1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at HTW Saar, Germany.
 
-Here are some ideas to get you started:
+I'm interested in software development, databases, and IT infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- Programming: Java, Python
+- Databases: SQL
+- Operating Systems: Windows, Linux
+- Tools: Git, GitHub
+
+## 🚀 My Projects
+Here you can find my academic and personal projects, including software development, database management, and computer science assignments.
+
+## 🎯 Career Goals
+I'm looking for opportunities to develop my technical skills, gain practical experience, and contribute to innovative IT projects.
+
+## 📫 Contact
+GitHub: https://github.com/sergetalla1003
